@@ -1,0 +1,19 @@
+# Auto generated backups #
+*~
+
+# Some gwt speicial folders #
+.project
+.classpath
+.settings
+.gwt
+metadata/
+war/resources/
+gwt-unitCache/
+war/WEB-INF/
+src/META-INF/
+src/log4j.properties
+war/SwissMuseum___mimosa3/*cache.*
+war/SwissMuseum___mimosa3/hosted.html
+war/SwissMuseum___mimosa3/junit-standards.html
+war/SwissMuseum___mimosa3/junit.html
+war/SwissMuseum___mimosa3/.junit_symbolMaps/
