@@ -1,6 +1,7 @@
-package ch.sebastienzurfluh.client;
+package ch.sebastienzurfluh.swissmuseum.cms.client;
 
-import ch.sebastienzurfluh.client.control.AppPresenter;
+
+import ch.sebastienzurfluh.swissmuseum.core.client.control.AppPresenter;
 
 import com.google.gwt.core.client.EntryPoint;
 import com.google.gwt.user.client.ui.RootPanel;
