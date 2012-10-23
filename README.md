@@ -1,5 +1,5 @@
-WELCOME to the Parcours CMS Project
-===================================
+WELCOME to MIMOSA3, the Parcours' CMS Project
+=============================================
 © Copyright 2012 Sebastien Zurfluh <www.sebastienzurfluh.ch>
 
 
@@ -26,7 +26,7 @@ the SwissMuseum_core project also hosted on github.
 
 
 
-Running the SERVER
-==================
+Running the SERVER:
+===================
 There is no Java Server nor Servlets. To run the backend see the "Parcours DB"
 project.
