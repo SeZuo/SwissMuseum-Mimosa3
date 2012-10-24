@@ -19,15 +19,14 @@
 
 package ch.sebastienzurfluh.swissmuseum.cms.client.control;
 
+import ch.sebastienzurfluh.swissmuseum.cms.client.view.View;
 import ch.sebastienzurfluh.swissmuseum.core.client.control.ModelFactory;
 import ch.sebastienzurfluh.swissmuseum.core.client.control.eventbus.EventBus;
 import ch.sebastienzurfluh.swissmuseum.core.client.control.eventbus.PageRequestEventHandler;
 import ch.sebastienzurfluh.swissmuseum.core.client.control.eventbus.ResourceRequestEventHandler;
 import ch.sebastienzurfluh.swissmuseum.core.client.control.eventbus.events.PageChangeRequest;
 import ch.sebastienzurfluh.swissmuseum.core.client.model.Model;
-import ch.sebastienzurfluh.swissmuseum.core.client.model.Model.ViewMode;
 import ch.sebastienzurfluh.swissmuseum.core.client.model.structure.DataReference;
-import ch.sebastienzurfluh.swissmuseum.core.client.view.View;
 
 import com.google.gwt.user.client.ui.Panel;
 
